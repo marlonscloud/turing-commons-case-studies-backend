@@ -4,8 +4,7 @@
   "description": "API for Turrin Common project",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "build": "node build"
+    "dev": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
