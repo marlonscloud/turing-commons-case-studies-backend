@@ -1,1 +1,0 @@
-# turing-commons-case-studies-backend
